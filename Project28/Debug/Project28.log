@@ -1,1 +1,17 @@
-﻿  Project28.vcxproj -> C:\Users\USER\Desktop\Чек\Прога\Test\Volk\Debug\Project28.exe
+﻿  Source.cpp
+c:\users\user\desktop\project\astrogame\project28\source.cpp(24): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\desktop\project\astrogame\project28\source.cpp(63): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\desktop\project\astrogame\project28\source.cpp(73): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\project\astrogame\project28\source.cpp(76): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\project\astrogame\project28\source.cpp(79): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\project\astrogame\project28\source.cpp(81): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\project\astrogame\project28\source.cpp(85): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\project\astrogame\project28\source.cpp(87): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\project\astrogame\project28\source.cpp(91): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\project\astrogame\project28\source.cpp(93): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\project\astrogame\project28\source.cpp(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project28.vcxproj -> C:\Users\USER\Desktop\Project\AstroGame\Debug\Project28.exe
